@@ -10,4 +10,4 @@ Simple Password Manager and File Vault in one program.
 (for now this is all if you have any qestions we will add them here)
 ```
 ## DOWNLOAD
-https://github.com/Tonny-1001/SafeBox/releases/tags
+https://github.com/Tonny-1001/SafeBox/tags
