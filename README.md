@@ -19,5 +19,3 @@ Copy shortcut to `SafeBox.exe` and paste it into this directory:</br>`C:\Program
 ## DOWNLOAD
 https://github.com/Tonny-1001/SafeBox/releases
 
-## SafeBox 2.0
-- [ ] New graphic library - modern and professional look.
