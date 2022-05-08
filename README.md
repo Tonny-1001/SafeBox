@@ -1,6 +1,6 @@
 # SafeBox
 Simple graphical Password Manager and File Vault in one program.
-(Program is working properly on windows idk what about linux or mac)
+(Program is only for windows)
 
 ## FAQ
 1. Is SafeBox safe? </br>
