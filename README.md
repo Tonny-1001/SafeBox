@@ -1,5 +1,5 @@
 # SafeBox
-Simple Password Manager and File Vault in one program.
+Simple graphical Password Manager and File Vault in one program.
 
 ## FAQ
 1. Is SafeBox safe? </br>
