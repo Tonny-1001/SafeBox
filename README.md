@@ -17,4 +17,4 @@ then right click on file `SafeBox.exe` </br>next click on `Send to` to and then 
 Copy shortcut to `SafeBox.exe` and paste it into this directory:</br>`C:\ProgramData\Microsoft\Windows\Start Menu\Programs`.
 
 ## DOWNLOAD
-https://github.com/Tonny-1001/SafeBox/tags
+https://github.com/Tonny-1001/SafeBox/releases
