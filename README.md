@@ -22,4 +22,6 @@ https://github.com/Tonny-1001/SafeBox/releases
 ## Version 2.0
 GUI will be changed to something new. - More readable and modern look </br>
 In general, the program will be totally renewed and redesigned.
+Here is a smoll sneak peak.
+![image](https://user-images.githubusercontent.com/87972010/167359074-a893f202-121b-411c-8c2b-4bd0fbaa6de7.png)
 
