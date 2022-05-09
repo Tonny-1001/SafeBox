@@ -19,10 +19,3 @@ Copy shortcut to `SafeBox.exe` and paste it into this directory:</br>`C:\Program
 ## DOWNLOAD
 https://github.com/Tonny-1001/SafeBox/releases
 
-## Version 2.0
-GUI will be changed to something new. - More readable and modern look </br>
-In general, the program will be totally renewed and redesigned.</br>
-Here is a smoll sneak peak.
-</br>
-<img src="https://user-images.githubusercontent.com/87972010/167359074-a893f202-121b-411c-8c2b-4bd0fbaa6de7.png" width="200" height="300" />
-
