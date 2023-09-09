@@ -1,6 +1,6 @@
 # SafeBox
 Simple graphical Password Manager and File Vault in one program.
-(Only for windows)
+(Only for windows) </br>
 (This is not a proper/real password manager! It was created for educational purposes.)
 
 ## FAQ
